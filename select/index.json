@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "In Your Heart (REI Solo)",
+  "base_artist": "IVE",
+  "createdAt": "2026-03-23T14:26:39.681469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Your Heart (REI Solo)",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_In_Your_Heart_(REI_Solo)_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In Your Heart (REI Solo)",
+      "artist": "IVE (아이브)",
+      "has_synced": false,
+      "path": "select/02_In_Your_Heart_(REI_Solo)_IVE_(아이브).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fire In Your Heart (Solo Version)",
+      "artist": "Sissel",
+      "has_synced": true,
+      "path": "select/03_Fire_In_Your_Heart_(Solo_Version)_Sissel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fire In Your Heart (Solo Version)",
+      "artist": "Sissel Kyrkjebo",
+      "has_synced": false,
+      "path": "select/04_Fire_In_Your_Heart_(Solo_Version)_Sissel_Kyrkjebo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire in Your Heart [Solo Version][*]",
+      "artist": "Sissel",
+      "has_synced": true,
+      "path": "select/05_Fire_in_Your_Heart_[Solo_Version][_]_Sissel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Solid Bond In Your Heart (solo)",
+      "artist": "The Jam",
+      "has_synced": false,
+      "path": "select/06_A_Solid_Bond_In_Your_Heart_(solo)_The_Jam.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "12 Fire in Your Heart [Solo Version][-]",
+      "artist": "Sissel",
+      "has_synced": true,
+      "path": "select/07_12_Fire_in_Your_Heart_[Solo_Version][-]_Sissel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fire In Your Heart (Solo Version)",
+      "artist": "Sissel",
+      "has_synced": true,
+      "path": "select/08_Fire_In_Your_Heart_(Solo_Version)_Sissel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fire In Your Heart [Solo Version]",
+      "artist": "Sissel",
+      "has_synced": true,
+      "path": "select/09_Fire_In_Your_Heart_[Solo_Version]_Sissel.lrc"
+    }
+  ]
+}
